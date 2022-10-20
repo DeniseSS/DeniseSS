@@ -21,10 +21,9 @@
 </div>
 <br>
 
-<div style="display: inline-flex">
+<div style="display:inline-flex">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=DeniseSS&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseSS&theme=dark)](https://github.com/DeniseSS/github-readme-stats)
 
 </div>
