@@ -19,3 +19,6 @@
 <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+<br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=DeniseSS&theme=dark)
